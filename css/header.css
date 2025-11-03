@@ -64,7 +64,7 @@ nav {
     display: none;
   }
 
-  .navigation-menu nav{
+  .navigation-menu nav {
     display: block;
   }
 
@@ -96,7 +96,7 @@ nav {
   }
 
   .navigation-menu a:hover {
-    color: var(--secondary-color);
+    color: var(--primary-color);
   }
 }
 
