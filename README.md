@@ -10,7 +10,7 @@ O layout foi originalmente proposto por [Dani Castilho](https://github.com/DaniC
 
 > **Atenção:** Substitua o link abaixo pela URL do seu projeto no GitHub Pages!
 
-[➡️ Veja o projeto ao vivo aqui!](https://joaofazio.github.io/JoaoFazio/)
+[➡️ Veja o projeto ao vivo aqui!](https://joaofazio.github.io/jornada-viagens/)
 
 ## ✨ Funcionalidades
 
